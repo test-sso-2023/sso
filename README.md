@@ -1,3 +1,3 @@
-```
-npm start
-```
+- `npm install` to install the packages
+- `npm start` to launch the application on `localhost:3000`
+- Sideload `manifest.xml` in Excel Online
