@@ -84,8 +84,9 @@
       <Id>e55f4769-4293-4b71-94ea-5eb16dcfe41d</Id>
       <Resource>api://localhost:3000/e55f4769-4293-4b71-94ea-5eb16dcfe41d</Resource>
       <Scopes>
-        <Scope>User.Read</Scope>
+        <Scope>Files.Read</Scope>
         <Scope>profile</Scope>
+        <Scope>openid</Scope>
       </Scopes>
     </WebApplicationInfo>
   </VersionOverrides>
